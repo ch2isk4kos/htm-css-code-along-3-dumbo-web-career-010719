@@ -1,1 +1,21 @@
-/*  */
+/* 
+CSS Syntax
+----------
+selector {
+  property: value;
+  property: value;
+}
+*/
+
+/*Type Selector:*/
+p {
+  font-size: 16px; /* 16px ?pt 100%, 1em (1em = 16px)*/
+  line-height: 1.5em; /* vertical space between sentences */
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: Georgia, "New Times Roman"
+}
